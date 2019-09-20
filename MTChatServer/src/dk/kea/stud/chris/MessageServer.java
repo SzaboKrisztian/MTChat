@@ -1,12 +1,23 @@
-import java.util.ArrayList;
-import java.util.List;
+package dk.kea.stud.chris;
+
+import java.util.*;
 
 public class MessageServer implements Observable {
   private List<Observer> observers;
-  private List<String> messages;
+  private Deque<Message> messages;
 
   public MessageServer() {
     observers = new ArrayList<>();
+    messages = new LinkedList<>();
+  }
+
+  public void postMessage(Message message) {
+    this.messages.push(message);
+    notifyObservers();
+  }
+
+  public Message getLastMessage() {
+    return messages.peek();
   }
 
   @Override

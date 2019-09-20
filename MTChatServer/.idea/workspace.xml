@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f2f7f0cf-602d-4cbd-8fb8-213a8d8ffc00" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dk/kea/stud/chris/Message.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ClientHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClientHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MessageServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MessageServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ClientHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dk/kea/stud/chris/ClientHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MessageServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dk/kea/stud/chris/MessageServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Observable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dk/kea/stud/chris/Observable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dk/kea/stud/chris/Observer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dk/kea/stud/chris/Server.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,6 +42,11 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="dk.kea.stud.chris" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -63,6 +71,7 @@
       <updated>1568960288618</updated>
       <workItem from="1568960289874" duration="1720000" />
       <workItem from="1568962112232" duration="8479000" />
+      <workItem from="1568985157737" duration="4117000" />
     </task>
     <servers />
   </component>
