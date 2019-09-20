@@ -3,6 +3,7 @@ import java.util.List;
 
 public class MessageServer implements Observable {
   private List<Observer> observers;
+  private List<String> messages;
 
   public MessageServer() {
     observers = new ArrayList<>();
