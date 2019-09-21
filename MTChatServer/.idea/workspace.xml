@@ -2,10 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f2f7f0cf-602d-4cbd-8fb8-213a8d8ffc00" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../MTChatClient/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MTChatClient/src/dk/kea/stud/chris/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MTChatClient/src/dk/kea/stud/chris/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MTChatClient/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MTChatClient/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MTChatClient/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MTChatClient/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MTChatClient/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MTChatClient_old/MTChatClient.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MTChatClient/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MTChatClient/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MTChatClient/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MTChatClient/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MTChatClient/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MTChatClient/MTChatClient.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../MTChatClient/MTChatClient.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MTChatClient/src/dk/kea/stud/chris/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MTChatClient/src/dk/kea/stud/chris/Message.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,6 +36,7 @@
   <component name="ProjectId" id="1R5cEpKTpL60YTbkrKg0iukrdKp" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -69,6 +78,7 @@
       <workItem from="1568960289874" duration="1720000" />
       <workItem from="1568962112232" duration="8479000" />
       <workItem from="1568985157737" duration="5447000" />
+      <workItem from="1569043270562" duration="3824000" />
     </task>
     <servers />
   </component>
